@@ -8,22 +8,21 @@
 <atom:link href="https://evwbr.github.io/rs_serra/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs_serra/</link>
 <description>Cobertura jornalística da Serra Gaúcha com fatos, informações e atualizações recentes.</description>
-<lastBuildDate>Tue, 24 Feb 2026 09:06:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Feb 2026 12:06:03 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Malware com inteligência artificial é identificado no Android]]></title>
-<link>https://evwbr.github.io/rs_serra/p/rsserra_1511aa154af58fff250784fd8543619e527c46f5/</link>
+<title><![CDATA[Havan abre 200 vagas de emprego para Garibaldi e região]]></title>
+<link>https://evwbr.github.io/rs_serra/p/rsserra_82da6e30b9700ffce7dd50641ad9b4517a35ff84/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 24 Feb 2026 08:39:00 GMT</pubDate>
+<pubDate>Tue, 24 Feb 2026 12:00:00 GMT</pubDate>
 <category><![CDATA[Serra Gaúcha]]></category>
-<guid isPermaLink="false"><![CDATA[rsserra:1511aa154af58fff250784fd8543619e527c46f5]]></guid>
-<description><![CDATA[Um novo malware chamado PromptSpy, que utiliza inteligência artificial generativa para agir de forma autônoma em dispositivos Android, foi identificado por pesquisadores de segurança digital.]]></description>
+<guid isPermaLink="false"><![CDATA[rsserra:82da6e30b9700ffce7dd50641ad9b4517a35ff84]]></guid>
+<description><![CDATA[A rede varejista Havan anunciou a abertura de cerca de 200 vagas de emprego para a nova unidade que será inaugurada em Garibaldi no primeiro semestre de 2026.]]></description>
 <content:encoded><![CDATA[
-<p>Um novo malware chamado PromptSpy, que utiliza inteligência artificial generativa para agir de forma autônoma em dispositivos Android, foi identificado por pesquisadores de segurança digital.</p>
-<p>O PromptSpy se diferencia dos malwares tradicionais por usar o modelo de IA generativa Google Gemini para interpretar o que acontece na tela do celular. Ele coleta informações por meio dos serviços de acessibilidade do Android, organiza esses dados e envia para a IA, que retorna instruções técnicas que o malware executa imediatamente. Essa capacidade permite que o vírus tome decisões sozinho e se adapte a diferentes modelos de celular, idiomas e layouts.</p>
-<p>O principal objetivo do PromptSpy é garantir persistência no dispositivo, dificultando sua remoção. Para isso, utiliza sobreposições invisíveis na tela, manipulação da lista de aplicativos recentes e uso intensivo das permissões de acessibilidade. Em alguns casos, a desinstalação pode exigir a restauração completa do aparelho às configurações de fábrica.</p>
-<p>Além disso, o malware pode capturar o que aparece na tela, gravar padrões de desbloqueio e interceptar PINs ou senhas digitadas pelo usuário, abrindo espaço para golpes financeiros e roubo de dados sensíveis.</p>
-<p>A identificação do PromptSpy representa um avanço no uso da inteligência artificial por malwares, evidenciando a necessidade de atenção redobrada na segurança dos dispositivos móveis.</p>
+<p>A rede varejista Havan anunciou a abertura de cerca de 200 vagas de emprego para a nova unidade que será inaugurada em Garibaldi no primeiro semestre de 2026. Os interessados podem entregar currículo presencialmente a partir de quarta-feira (25), no Sistema Nacional de Emprego (Sine) do município, entre 9h e 17h. Além do atendimento presencial, os candidatos também podem se cadastrar pelo site oficial da empresa e devem acompanhar os canais de contato informados no cadastro para receber informações sobre as etapas do processo seletivo.</p>
+<p>A nova megaloja terá aproximadamente 10 mil metros quadrados, com um mix de cerca de 350 mil produtos, praça de alimentação e estacionamento gratuito. A unidade faz parte do plano de expansão da empresa, que completa 40 anos em junho e projeta ultrapassar 200 filiais em operação no país até o fim de 2026.</p>
+<p>Os colaboradores terão acesso a benefícios como vale-transporte, vale-alimentação ou refeição, plano de saúde, participação nos resultados e prêmio assiduidade. A rede também oferece licença-maternidade de 180 dias e licença-paternidade de 20 dias.</p>
+<p>A abertura das vagas reforça o compromisso da Havan com o desenvolvimento econômico da região de Garibaldi e a geração de empregos locais.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
