@@ -8,20 +8,35 @@
 <atom:link href="https://evwbr.github.io/rs_serra/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs_serra/</link>
 <description>Cobertura jornalística da Serra Gaúcha com fatos, informações e atualizações recentes.</description>
-<lastBuildDate>Wed, 18 Mar 2026 21:06:21 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Mar 2026 00:06:12 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Princípio de incêndio mobiliza evacuação no Colégio Estadual Farroupilha]]></title>
-<link>https://evwbr.github.io/rs_serra/p/rsserra_473025b1719355d93b6fae799eec9e76e5e6bba2/</link>
+<title><![CDATA[Fiscalização confirma qualidade dos combustíveis em postos de Caxias do Sul]]></title>
+<link>https://evwbr.github.io/rs_serra/p/rsserra_270a1166a0a99a377a59b0f58299ddd99378ada4/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 18 Mar 2026 12:18:03 GMT</pubDate>
+<pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
 <category><![CDATA[Serra Gaúcha]]></category>
-<guid isPermaLink="false"><![CDATA[rsserra:473025b1719355d93b6fae799eec9e76e5e6bba2]]></guid>
-<description><![CDATA[Um princípio de incêndio no auditório do Colégio Estadual Farroupilha mobilizou alunos, professores e funcionários na manhã desta quarta-feira.]]></description>
+<guid isPermaLink="false"><![CDATA[rsserra:270a1166a0a99a377a59b0f58299ddd99378ada4]]></guid>
+<description><![CDATA[Operação conjunta da ANP e do Procon verificou que os combustíveis vendidos em Caxias do Sul atendem aos padrões legais de qualidade e quantidade.]]></description>
 <content:encoded><![CDATA[
-<p>Um princípio de incêndio no auditório do Colégio Estadual Farroupilha mobilizou alunos, professores e funcionários na manhã desta quarta-feira. Por volta das 8h10, três turmas, com cerca de 120 estudantes, assistiam a um filme no auditório da escola quando a fumaça começou a se espalhar após alunos ligarem ventiladores para melhorar a ventilação devido ao calor intenso e sensação de abafamento no local.</p>
-<p>A diretora Elezita Ferrari ressaltou a ação rápida dos funcionários, que desligaram a rede elétrica da escola para controlar a situação. Os alunos evacuaram o auditório e seguiram para a quadra da escola, evitando uma tragédia.</p>
-<p>A evacuação rápida e o controle imediato da situação foram fundamentais para garantir a segurança de todos no Colégio Estadual Farroupilha.</p>
+<p>Operação conjunta da ANP e do Procon verificou que os combustíveis vendidos em Caxias do Sul atendem aos padrões legais de qualidade e quantidade. A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), em parceria com o Procon, realizou uma fiscalização em postos de combustíveis de Caxias do Sul. Os testes incluíram a verificação do volume dispensado e a análise química da gasolina, diesel e etanol, sem identificar qualquer adulteração que prejudique veículos ou consumidores.</p>
+<p>Entre os procedimentos, foi realizado o teste do ponto de fulgor do diesel, que mede a temperatura mínima de combustão, fundamental para evitar danos aos motores. Também foi verificado o teor de etanol na gasolina, que se manteve dentro da margem permitida de 28% a 32%.</p>
+<p>Apesar da aprovação dos combustíveis, a operação resultou em cerca de 14 autuações relacionadas a questões documentais e estruturais dos postos. Uma bomba foi interditada devido ao visor queimado, impedindo a leitura correta do preço pelo consumidor. Os estabelecimentos notificados deverão realizar os reparos necessários para retomar o funcionamento.</p>
+<p>Sobre a variação de preços e rumores de desabastecimento, o coordenador do Procon explicou que essas oscilações estão relacionadas ao mercado. A fiscalização reforça o compromisso das autoridades em garantir a qualidade dos combustíveis e a transparência para os consumidores em Caxias do Sul.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Colégio Farroupilha suspende aulas após princípio de incêndio]]></title>
+<link>https://evwbr.github.io/rs_serra/p/rsserra_98fdf27185d836c1bc9c03c36180d34ce534f29b/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 18 Mar 2026 23:45:37 GMT</pubDate>
+<category><![CDATA[Serra Gaúcha]]></category>
+<guid isPermaLink="false"><![CDATA[rsserra:98fdf27185d836c1bc9c03c36180d34ce534f29b]]></guid>
+<description><![CDATA[As aulas no Colégio Estadual Farroupilha foram suspensas nesta quinta-feira (19) após um princípio de incêndio ocorrido na manhã de quarta-feira (18).]]></description>
+<content:encoded><![CDATA[
+<p>As aulas no Colégio Estadual Farroupilha foram suspensas nesta quinta-feira (19) após um princípio de incêndio ocorrido na manhã de quarta-feira (18). O incidente aconteceu por volta das 8h10 no auditório da escola, enquanto cerca de 120 alunos assistiam a um filme. A fumaça começou a se espalhar após a ligação de ventiladores, em meio ao calor intenso no local.</p>
+<p>A direção da escola adotou a suspensão das atividades para garantir a segurança de alunos e funcionários. Um engenheiro de Porto Alegre, acompanhado de técnicos, realizará uma análise completa da estrutura do prédio.</p>
+<p>A retomada das aulas dependerá do parecer técnico sobre as condições de segurança do prédio, conforme informado pela diretora Elezita Ferrari. A prioridade da instituição é assegurar um ambiente seguro para todos antes de retomar as atividades escolares.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
