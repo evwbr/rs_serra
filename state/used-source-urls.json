@@ -542,5 +542,37 @@
     "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_0d05887ea3b22197bb37532e64f4f22b0318a9e3/",
     "usedAt": 1779275178733,
     "usedAtIso": "2026-05-20T11:06:18.733Z"
+  },
+  "source:142c6d3b42967507a01bd5c42a1887d11f7d0ddf": {
+    "url": "https://leouve.com.br/obras/obra-nova-rede-gas-natural-pode-causar-alteracoes-transito-area-central-bento-goncalves",
+    "title": "Obras na área central devem causar intervenções no trânsito por 45 dias",
+    "guid": "rsserramulti:e584fbe9220b6f40480490df8d73eff8e6b5d6cb",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_e584fbe9220b6f40480490df8d73eff8e6b5d6cb/",
+    "usedAt": 1779278778923,
+    "usedAtIso": "2026-05-20T12:06:18.923Z"
+  },
+  "source:b5330d5b96a46e7b88f472c7d970e2fcb1c642b2": {
+    "url": "https://leouve.com.br/saude/bento-goncalves-retorno-atendimento-nefrologia-pediatrica-sus-junho",
+    "title": "Pacientes aguardam atendimento em nefrologia pediátrica pelo SUS em Bento Gonçalves",
+    "guid": "rsserramulti:eac841b41f57d46d94ab70bcb657a84c5e450085",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_eac841b41f57d46d94ab70bcb657a84c5e450085/",
+    "usedAt": 1779278778923,
+    "usedAtIso": "2026-05-20T12:06:18.923Z"
+  },
+  "source:4d8e92601313b390d3c8019fe6ee83d18e154b88": {
+    "url": "https://leouve.com.br/seguranca/operacao-convergencia-brigada-militar-serra-gaucha",
+    "title": "Brigada Militar usa análise preditiva e mapa de calor para reforçar segurança em cidades da Serra Gaúcha",
+    "guid": "rsserramulti:79290c2f790a1dc0fc71e7c0615e66e3f4f0d4d5",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_79290c2f790a1dc0fc71e7c0615e66e3f4f0d4d5/",
+    "usedAt": 1779278778923,
+    "usedAtIso": "2026-05-20T12:06:18.923Z"
+  },
+  "source:ac49dade676d143b0f962bcd3c5d38d5c0ae1626": {
+    "url": "https://leouve.com.br/plantao/acidente/colisao-frontal-deixa-mulher-ferida-na-avenida-alvi-azul-em-bento-goncalves",
+    "title": "Colisão frontal entre veículos deixa vítima em Bento Gonçalves",
+    "guid": "rsserramulti:4d036f33316bab836b8781934b3fa7ee112fadf3",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_4d036f33316bab836b8781934b3fa7ee112fadf3/",
+    "usedAt": 1779278778923,
+    "usedAtIso": "2026-05-20T12:06:18.923Z"
   }
 }
