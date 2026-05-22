@@ -990,5 +990,29 @@
     "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_b5f222210879afdff6126b47424d5a4204d7fce0/",
     "usedAt": 1779465978234,
     "usedAtIso": "2026-05-22T16:06:18.234Z"
+  },
+  "source:64377aa67e45734262cfb48fd610693d365e2b90": {
+    "url": "https://leouve.com.br/politica/camara-de-caxias-adia-projeto-sobre-obras-em-areas-em-regularizacao",
+    "title": "Projeto amplia prazo para obras em regularização fundiária em Caxias do Sul",
+    "guid": "rsserramulti:c171663bcf0127e15b6ff453811bccfa426e0bd6",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_c171663bcf0127e15b6ff453811bccfa426e0bd6/",
+    "usedAt": 1779473177760,
+    "usedAtIso": "2026-05-22T18:06:17.760Z"
+  },
+  "source:a52f5a840a5975961d8d9913c676f162ddb17b8f": {
+    "url": "https://leouve.com.br/seguranca/transito/obras-causam-congestionamento-e-sistema-pare-e-siga-na-rota-do-sol-em-caxias-do-sul",
+    "title": "Trânsito opera em sistema pare e siga entre viaduto do bairro Santa Fé e entrada do São Ciro",
+    "guid": "rsserramulti:31dca96a3913f3d1d89de5380c1025ece8a9ff3d",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_31dca96a3913f3d1d89de5380c1025ece8a9ff3d/",
+    "usedAt": 1779473177760,
+    "usedAtIso": "2026-05-22T18:06:17.760Z"
+  },
+  "source:30344aaad6ebd50177d28203f2a4cb5f90b1e7ab": {
+    "url": "https://leouve.com.br/seguranca/homem-baleado-ataque-bairro-santa-marta-morre-apos-21-dias-internado-em-bento-goncalves",
+    "title": "Homem morre após ser baleado em tiroteio em Bento Gonçalves",
+    "guid": "rsserramulti:b1549c8410737be0738bca482065f2e2f692aee5",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_b1549c8410737be0738bca482065f2e2f692aee5/",
+    "usedAt": 1779473177760,
+    "usedAtIso": "2026-05-22T18:06:17.760Z"
   }
 }
