@@ -1310,5 +1310,29 @@
     "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_0457ccd9ea41ed384304be3ce1dd7532da9930bc/",
     "usedAt": 1779645977431,
     "usedAtIso": "2026-05-24T18:06:17.431Z"
+  },
+  "source:3d838bd56a20a7ad3d21fabcb1e84e3b5a29bf1f": {
+    "url": "https://leouve.com.br/seguranca/transito/colisao-frontal-deixa-dois-mortos-e-um-ferido-grave-em-casca",
+    "title": "Acidente na BR-470 em Casca deixa duas mortes e bloqueia trecho da rodovia",
+    "guid": "rsserramulti:c95748a72aa64a867af37815253593d3ba8fd1ea",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_c95748a72aa64a867af37815253593d3ba8fd1ea/",
+    "usedAt": 1779649577323,
+    "usedAtIso": "2026-05-24T19:06:17.323Z"
+  },
+  "source:9589bf634562666986fc31ebaf30e165e05a0155": {
+    "url": "https://leouve.com.br/seguranca/bloqueio-total-br-470-bento-veranopolis-domingo",
+    "title": "Rodovia no km 190 fica totalmente interditada para desmontagem de guindaste próximo à Ponte Ernesto Dornelles",
+    "guid": "rsserramulti:5e5cd44f4413a1a776e7b51f42f71e6896ee2792",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_5e5cd44f4413a1a776e7b51f42f71e6896ee2792/",
+    "usedAt": 1779649577323,
+    "usedAtIso": "2026-05-24T19:06:17.323Z"
+  },
+  "source:9b1351c7e1e5b1aa328154e1e5fdf6b769a684b8": {
+    "url": "https://leouve.com.br/seguranca/bombeiros/incendio-destroi-veiculo-citroen-na-rs-444-em-bento-goncalves",
+    "title": "Carro pega fogo na RS-444 no bairro Vale dos Vinhedos, em Bento Gonçalves",
+    "guid": "rsserramulti:1da8173d552f10ad4f6591e132a284d7934464b3",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_1da8173d552f10ad4f6591e132a284d7934464b3/",
+    "usedAt": 1779649577323,
+    "usedAtIso": "2026-05-24T19:06:17.323Z"
   }
 }
