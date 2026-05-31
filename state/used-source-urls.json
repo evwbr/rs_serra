@@ -2390,5 +2390,29 @@
     "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_100b3b181c51f3c7ea7251975ff5642c3bb01c68/",
     "usedAt": 1780182377456,
     "usedAtIso": "2026-05-30T23:06:17.456Z"
+  },
+  "source:9f0fa4ced49d873a1d7ca10cf6ee4d9834021ad3": {
+    "url": "https://leouve.com.br/saude/ans-define-reajuste-maximo-de-511-para-planos-de-saude",
+    "title": "ANS autoriza menor reajuste dos planos de saúde desde 2019, beneficiando 7,7 milhões de usuários",
+    "guid": "rsserramulti:351f5fc46877cff7ff01900e169991c9c978523b",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_351f5fc46877cff7ff01900e169991c9c978523b/",
+    "usedAt": 1780185977126,
+    "usedAtIso": "2026-05-31T00:06:17.126Z"
+  },
+  "source:b0f43315790154c83828cf740e58403dfa761810": {
+    "url": "https://leouve.com.br/esportes/gremio-sofre-virada-do-corinthians-na-arena-e-encerra-rodada-perto-da-zona-de-rebaixamento",
+    "title": "Corinthians vira sobre Grêmio com gols de André e Kaio César",
+    "guid": "rsserramulti:dcbafb39be948e66b026096e44ef515433b31fb0",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_dcbafb39be948e66b026096e44ef515433b31fb0/",
+    "usedAt": 1780185977126,
+    "usedAtIso": "2026-05-31T00:06:17.126Z"
+  },
+  "source:8c79d060271ad04aad2c841d55d2383bd93e48bd": {
+    "url": "https://leouve.com.br/meio-ambiente/desmatamento-cai-73-no-rio-grande-do-sul-em-2025",
+    "title": "Rio Grande do Sul registra baixa supressão de vegetação nativa em 2023",
+    "guid": "rsserramulti:a404b56dce6219ce6ecd0006bb0ca9271f1c26ef",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_a404b56dce6219ce6ecd0006bb0ca9271f1c26ef/",
+    "usedAt": 1780185977126,
+    "usedAtIso": "2026-05-31T00:06:17.126Z"
   }
 }
