@@ -8,39 +8,22 @@
 <atom:link href="https://evwbr.github.io/rs_serra/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs_serra/</link>
 <description>Notícias da Serra Gaúcha e do Rio Grande do Sul (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Mon, 06 Jul 2026 15:08:08 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 17:07:08 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Nova linha T1 de ônibus começa a operar em Caxias do Sul ligando Desvio Rizzo ao Pioneiro]]></title>
-<link>https://evwbr.github.io/rs_serra/p/rsserramulti_0a58e3cf5ba517dadce86c691f4657383a3511db/</link>
+<title><![CDATA[Golpe "copy-paste" no macOS usa comandos no Terminal para atacar usuários]]></title>
+<link>https://evwbr.github.io/rs_serra/p/rsserramulti_5b6fb78e3b45ea6e9c2acd94ecb36e6d2735c7f5/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 06 Jul 2026 14:33:57 GMT</pubDate>
+<pubDate>Mon, 06 Jul 2026 17:00:00 GMT</pubDate>
 <category><![CDATA[Serra Gaúcha]]></category>
-<guid isPermaLink="false"><![CDATA[rsserramulti:0a58e3cf5ba517dadce86c691f4657383a3511db]]></guid>
-<description><![CDATA[A partir de 13 de julho, Caxias do Sul terá uma nova linha de transporte coletivo que conecta os bairros Desvio Rizzo e Pioneiro sem passar pelo Centro da cidade, facilitando o deslocamento transversal entre regiões.]]></description>
+<guid isPermaLink="false"><![CDATA[rsserramulti:5b6fb78e3b45ea6e9c2acd94ecb36e6d2735c7f5]]></guid>
+<description><![CDATA[Criminosos têm explorado o uso do Terminal no macOS para aplicar o golpe "copy-paste", que induz usuários a executar comandos maliciosos e comprometer seus computadores.]]></description>
 <content:encoded><![CDATA[
-<p>A partir de 13 de julho, Caxias do Sul terá uma nova linha de transporte coletivo que conecta os bairros Desvio Rizzo e Pioneiro sem passar pelo Centro da cidade, facilitando o deslocamento transversal entre regiões.</p>
-<p>A linha T1 inicia operação em 13 de julho, oferecendo uma rota direta entre os bairros Desvio Rizzo, na região Nordeste, e Pioneiro, na região Oeste de Caxias do Sul.</p>
-<p>O serviço contará com quatro ônibus identificados pela cor laranja, que circularão de segunda a sexta-feira, com frequência de 30 minutos nos horários de maior movimento e 35 minutos nos períodos intermediários. A tarifa será a mesma praticada no transporte coletivo urbano da cidade.</p>
-<p>A implantação da linha T1 representa a primeira opção de deslocamento transversal no sistema de transporte público de Caxias do Sul, com o objetivo de reduzir o tempo de viagem dos usuários que têm origem e destino fora da área central.</p>
-<p>Informações detalhadas sobre os horários e o itinerário completo da linha T1 estão disponíveis no site oficial do Caxias Urbano, na seção Linhas e Horários, para que os passageiros possam planejar suas viagens com antecedência e aproveitar a nova alternativa de transporte.</p>
-<p>A Secretaria de Trânsito, Transportes e Mobilidade de Caxias do Sul destaca que a nova linha visa melhorar a mobilidade urbana, promovendo maior integração entre bairros e facilitando o acesso dos moradores a diferentes regiões da cidade sem a necessidade de deslocamento pelo Centro.</p>
-<p>Com a chegada da linha T1, o sistema de transporte coletivo de Caxias do Sul amplia suas opções, oferecendo mais conforto e agilidade para os usuários que precisam se deslocar entre as regiões Nordeste e Oeste da cidade.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Serra Gaúcha enfrenta frio intenso nas madrugadas desta semana com possibilidade de geada]]></title>
-<link>https://evwbr.github.io/rs_serra/p/rsserramulti_34c16008a221b5683ccffe970e5a3b1ecec7a750/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 06 Jul 2026 14:19:26 GMT</pubDate>
-<category><![CDATA[Serra Gaúcha]]></category>
-<guid isPermaLink="false"><![CDATA[rsserramulti:34c16008a221b5683ccffe970e5a3b1ecec7a750]]></guid>
-<description><![CDATA[A Serra Gaúcha terá madrugadas de frio intenso entre terça e quinta-feira, com mínimas negativas e formação de geada, devido à chegada de uma massa de ar frio e seco na região.]]></description>
-<content:encoded><![CDATA[
-<p>A Serra Gaúcha terá madrugadas de frio intenso entre terça e quinta-feira, com mínimas negativas e formação de geada, devido à chegada de uma massa de ar frio e seco na região.</p>
-<p>O ar frio começa a ingressar na Serra Gaúcha entre esta segunda-feira e terça-feira, trazendo uma queda significativa nas temperaturas durante as madrugadas. Embora a massa de ar frio não seja tão intensa quanto a da semana anterior, ela será suficiente para prolongar o período de frio no Rio Grande do Sul.</p>
-<p>A presença de um centro de alta pressão e do ar mais seco favorece o resfriamento acentuado durante as noites e madrugadas. Os amanheceres de terça, quarta e quinta-feira devem registrar as temperaturas mais baixas da semana no Sul do Brasil.</p>
-<p>Na Serra Gaúcha e em outras áreas de maior altitude do estado, a tendência é de frio intenso, com possibilidade de mínimas negativas e formação de geada.</p>
+<p>Criminosos têm explorado o uso do Terminal no macOS para aplicar o golpe "copy-paste", que induz usuários a executar comandos maliciosos e comprometer seus computadores.</p>
+<p>O golpe "copy-paste" consiste em convencer o usuário a copiar e colar comandos no Terminal do macOS, ferramenta oficial do sistema para executar tarefas avançadas. A estratégia se aproveita da confiança em orientações técnicas aparentemente legítimas, como fóruns, vídeos e páginas de suporte.</p>
+<p>Diferente de ataques tradicionais que exploram vulnerabilidades do sistema, essa técnica depende da ação direta da vítima, que executa comandos sem entender sua real finalidade. Os criminosos criam conteúdos falsos que imitam instruções técnicas para induzir o usuário a abrir o Terminal, copiar uma sequência de comandos e pressionar Enter.</p>
+<p>O Terminal permite instalar componentes, automatizar tarefas, modificar configurações e executar scripts, o que torna possível que comandos maliciosos baixem arquivos, alterem permissões do sistema ou estabeleçam conexões para etapas posteriores do ataque.</p>
+<p>O risco está na execução de comandos desconhecidos, que podem comprometer a segurança do computador sem que o usuário perceba.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
