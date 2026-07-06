@@ -8,22 +8,39 @@
 <atom:link href="https://evwbr.github.io/rs_serra/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/rs_serra/</link>
 <description>Notícias da Serra Gaúcha e do Rio Grande do Sul (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Mon, 06 Jul 2026 17:07:08 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 18:07:14 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Golpe "copy-paste" no macOS usa comandos no Terminal para atacar usuários]]></title>
-<link>https://evwbr.github.io/rs_serra/p/rsserramulti_5b6fb78e3b45ea6e9c2acd94ecb36e6d2735c7f5/</link>
+<title><![CDATA[Motorista é socorrido após acidente com carga de jalecos em Caxias do Sul]]></title>
+<link>https://evwbr.github.io/rs_serra/p/rsserramulti_bf2360fcca4239ae8be4ba03b68314961f156f9e/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 06 Jul 2026 17:00:00 GMT</pubDate>
+<pubDate>Mon, 06 Jul 2026 17:47:40 GMT</pubDate>
 <category><![CDATA[Serra Gaúcha]]></category>
-<guid isPermaLink="false"><![CDATA[rsserramulti:5b6fb78e3b45ea6e9c2acd94ecb36e6d2735c7f5]]></guid>
-<description><![CDATA[Criminosos têm explorado o uso do Terminal no macOS para aplicar o golpe "copy-paste", que induz usuários a executar comandos maliciosos e comprometer seus computadores.]]></description>
+<guid isPermaLink="false"><![CDATA[rsserramulti:bf2360fcca4239ae8be4ba03b68314961f156f9e]]></guid>
+<description><![CDATA[Um motorista foi socorrido após acidente envolvendo um veículo que transportava jalecos de uma empresa da região em Caxias do Sul.]]></description>
 <content:encoded><![CDATA[
-<p>Criminosos têm explorado o uso do Terminal no macOS para aplicar o golpe "copy-paste", que induz usuários a executar comandos maliciosos e comprometer seus computadores.</p>
-<p>O golpe "copy-paste" consiste em convencer o usuário a copiar e colar comandos no Terminal do macOS, ferramenta oficial do sistema para executar tarefas avançadas. A estratégia se aproveita da confiança em orientações técnicas aparentemente legítimas, como fóruns, vídeos e páginas de suporte.</p>
-<p>Diferente de ataques tradicionais que exploram vulnerabilidades do sistema, essa técnica depende da ação direta da vítima, que executa comandos sem entender sua real finalidade. Os criminosos criam conteúdos falsos que imitam instruções técnicas para induzir o usuário a abrir o Terminal, copiar uma sequência de comandos e pressionar Enter.</p>
-<p>O Terminal permite instalar componentes, automatizar tarefas, modificar configurações e executar scripts, o que torna possível que comandos maliciosos baixem arquivos, alterem permissões do sistema ou estabeleçam conexões para etapas posteriores do ataque.</p>
-<p>O risco está na execução de comandos desconhecidos, que podem comprometer a segurança do computador sem que o usuário perceba.</p>
+<p>Um motorista foi socorrido após acidente envolvendo um veículo que transportava jalecos de uma empresa da região em Caxias do Sul.</p>
+<p>O veículo transportava uma carga de jalecos quando sofreu um acidente na cidade de Caxias do Sul. O motorista foi atendido pelas equipes da concessionária CSG e encaminhado ao Hospital São Carlos para receber atendimento médico.</p>
+<p>A concessionária responsável pela rodovia prestou os primeiros socorros e realizou o encaminhamento do condutor ao hospital. Não há informações sobre o estado de saúde do motorista após o atendimento inicial.</p>
+<p>O acidente ocorreu em uma área próxima a obras na rede de esgoto que têm causado bloqueios no trânsito local, entre a Rua das Andorinhas e o Travessão Victor Emanuel, na Vila Ipê.</p>
+<p>As intervenções na rede de esgoto acontecem entre os dias 6 e 7 de maio, o que pode ter influenciado as condições do trânsito no momento do acidente.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Serviços de manutenção podem causar bloqueios no trânsito até terça-feira]]></title>
+<link>https://evwbr.github.io/rs_serra/p/rsserramulti_dab93938c754b7636241c98ad1e48172b768f68b/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 06 Jul 2026 17:17:18 GMT</pubDate>
+<category><![CDATA[Serra Gaúcha]]></category>
+<guid isPermaLink="false"><![CDATA[rsserramulti:dab93938c754b7636241c98ad1e48172b768f68b]]></guid>
+<description><![CDATA[Trabalhos de manutenção previstos para seguir até terça-feira, 7, podem provocar bloqueios pontuais no trânsito durante a execução dos serviços.]]></description>
+<content:encoded><![CDATA[
+<p>Trabalhos de manutenção previstos para seguir até terça-feira, 7, podem provocar bloqueios pontuais no trânsito durante a execução dos serviços.</p>
+<p>Os trabalhos de manutenção estão programados para continuar até esta terça-feira, 7, e podem ocasionar bloqueios temporários no trânsito local. A ação visa garantir a melhoria e a segurança dos serviços oferecidos à população.</p>
+<p>Durante a execução, motoristas devem ficar atentos às possíveis interrupções e alterações no fluxo de veículos, que serão pontuais e temporárias.</p>
+<p>A iniciativa faz parte de um cronograma de manutenção preventiva que busca evitar problemas maiores e garantir a continuidade dos serviços essenciais. A previsão é que as intervenções sejam concluídas dentro do prazo estipulado.</p>
+<p>É importante que a população acompanhe as atualizações sobre o andamento dos trabalhos e respeite as sinalizações e orientações das equipes responsáveis para garantir a segurança de todos.</p>
+<p>O trânsito poderá sofrer alterações momentâneas, mas as autoridades trabalham para minimizar os impactos e restabelecer a normalidade o mais rápido possível.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
