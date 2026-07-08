@@ -3766,5 +3766,29 @@
     "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_6f89f72afade00ad7d764ef67627ddd8c05344c0/",
     "usedAt": 1783537577189,
     "usedAtIso": "2026-07-08T19:06:17.189Z"
+  },
+  "source:47457cd318ef49d1a497cdc3bebf30dc0caf9fb6": {
+    "url": "https://leouve.com.br/seguranca/transito/trecho-estrada-claudino-antonio-costa-bloqueado-pavimentacao-caxias",
+    "title": "Trecho da via em Nossa Senhora do Caravaggio será bloqueado para obras de pavimentação asfáltica",
+    "guid": "rsserramulti:f2dccdfd9675fb72f23877c6f2be36ba2b9db4fc",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_f2dccdfd9675fb72f23877c6f2be36ba2b9db4fc/",
+    "usedAt": 1783541177473,
+    "usedAtIso": "2026-07-08T20:06:17.473Z"
+  },
+  "source:b00d1217f25b3f559f863a3466da5c3b06f74930": {
+    "url": "https://leouve.com.br/seguranca/prf-brigada-militar-apreendem-agrotoxicos-serra-gaucha-barao",
+    "title": "Dois homens são presos transportando agrotóxicos uruguaios em carro alugado em Bento Gonçalves",
+    "guid": "rsserramulti:4faf4d2ced1b6b82f1e609010907ae43a8b9cacc",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_4faf4d2ced1b6b82f1e609010907ae43a8b9cacc/",
+    "usedAt": 1783541177473,
+    "usedAtIso": "2026-07-08T20:06:17.473Z"
+  },
+  "source:cc1676de3accbd922e4f0b315374499e84ef845c": {
+    "url": "https://leouve.com.br/plantao/incendio/incendio-onibus-br-116-caxias-vacaria",
+    "title": "Ônibus rodoviário pega fogo na BR-116 entre Caxias do Sul e Vacaria",
+    "guid": "rsserramulti:3f3d696afc865b838be95d0e1083e5b33a89bcaf",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_3f3d696afc865b838be95d0e1083e5b33a89bcaf/",
+    "usedAt": 1783541177473,
+    "usedAtIso": "2026-07-08T20:06:17.473Z"
   }
 }
