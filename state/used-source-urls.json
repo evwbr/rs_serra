@@ -3918,5 +3918,29 @@
     "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_afc13a9eb5dcdec472cebaf0eaeef4672f11e697/",
     "usedAt": 1783616777122,
     "usedAtIso": "2026-07-09T17:06:17.122Z"
+  },
+  "source:3d559892f5220c358f16f8b018b56e52f0ff8907": {
+    "url": "https://leouve.com.br/servicos/falta-energia-abastecimento-agua-cinco-bairros-bento-goncalves",
+    "title": "Interrupção no fornecimento de energia causa falta de água em bairros de Bento Gonçalves",
+    "guid": "rsserramulti:84d78841b63f3bd57bae3b1cee83ce3c6039fbc0",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_84d78841b63f3bd57bae3b1cee83ce3c6039fbc0/",
+    "usedAt": 1783620378040,
+    "usedAtIso": "2026-07-09T18:06:18.040Z"
+  },
+  "source:ecfa282539816e6e5bd6558d21495a67bc176c3d": {
+    "url": "https://leouve.com.br/plantao/acidente/colisao-entre-dois-carros-deixa-mulher-ferida-em-caxias-do-sul",
+    "title": "Colisão entre Hilux e Toro no trevo entre Farroupilha e Caxias do Sul causa acidente",
+    "guid": "rsserramulti:b065d44de29399bc70bce869b1a596f373ad1c40",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_b065d44de29399bc70bce869b1a596f373ad1c40/",
+    "usedAt": 1783620378040,
+    "usedAtIso": "2026-07-09T18:06:18.040Z"
+  },
+  "source:2e4272f8d085125648b370319394d6a0dbb32abc": {
+    "url": "https://leouve.com.br/mobilidade/ers-437-ligacao-asfaltada-antonio-prado-vila-flores",
+    "title": "Governo do Rio Grande do Sul inicia pavimentação de 16 km da ERS-437 entre Vila Flores e Antônio Prado",
+    "guid": "rsserramulti:43a7cdd0701d4f186538939414816ee017115fe7",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_43a7cdd0701d4f186538939414816ee017115fe7/",
+    "usedAt": 1783620378040,
+    "usedAtIso": "2026-07-09T18:06:18.040Z"
   }
 }
