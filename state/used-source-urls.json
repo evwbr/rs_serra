@@ -4926,5 +4926,21 @@
     "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_9141e587da2f577d1c6721862cc7f7915256f342/",
     "usedAt": 1784513177908,
     "usedAtIso": "2026-07-20T02:06:17.908Z"
+  },
+  "source:0805fde7d58449575d2fb1820e8ec48351e757ab": {
+    "url": "https://leouve.com.br/plantao/acidente/colisao-dois-carros-um-ferido-lentidao-br-470-em-garibaldi",
+    "title": "Acidente entre dois veículos na BR-470 em Garibaldi causa lentidão no trânsito",
+    "guid": "rsserramulti:a5785583c767ed35f4b4cacd0bde8df3391d4029",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_a5785583c767ed35f4b4cacd0bde8df3391d4029/",
+    "usedAt": 1784545577557,
+    "usedAtIso": "2026-07-20T11:06:17.557Z"
+  },
+  "source:58648abe45be300873f732b4e796de4d2495062b": {
+    "url": "https://leouve.com.br/plantao/acidente/carro-pega-fogo-e-mulher-fica-ferida-apos-colisao-frontal-na-br-116-em-caxias-do-sul",
+    "title": "Mulher fica ferida em acidente envolvendo quatro veículos em Caxias do Sul",
+    "guid": "rsserramulti:d265a42c87340338287c90a483dea82989f26cdc",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_d265a42c87340338287c90a483dea82989f26cdc/",
+    "usedAt": 1784545577557,
+    "usedAtIso": "2026-07-20T11:06:17.557Z"
   }
 }
