@@ -6910,5 +6910,29 @@
     "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_6447f24b9129b1056868e60113d891b05b953f9c/",
     "usedAt": 1785492378358,
     "usedAtIso": "2026-07-31T10:06:18.358Z"
+  },
+  "source:f6d61441afd571987d65840f21548c6c3358bccb": {
+    "url": "https://leouve.com.br/seguranca/policia/operacoes-da-bm-resultam-em-prisoes-por-trafico-e-cumprimento-de-mandado-em-farroupilha",
+    "title": "Homem é preso preventivamente em Bento Gonçalves por descumprimento de medida protetiva e posse de drogas",
+    "guid": "rsserramulti:6f3adaf020a9fdc1aa3517e239987b0903f6bd5e",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_6f3adaf020a9fdc1aa3517e239987b0903f6bd5e/",
+    "usedAt": 1785495979430,
+    "usedAtIso": "2026-07-31T11:06:19.430Z"
+  },
+  "source:1330cfec6030a3a4332ce8146469c7146a6ef59b": {
+    "url": "https://leouve.com.br/seguranca/descumprimento-medida-protetiva-homem-prisao-bento-goncalves",
+    "title": "Homem é preso em Bento Gonçalves por descumprimento de medida protetiva",
+    "guid": "rsserramulti:ec58387cb8c3d1cf06e6755cb7f214ab2b087288",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_ec58387cb8c3d1cf06e6755cb7f214ab2b087288/",
+    "usedAt": 1785495979430,
+    "usedAtIso": "2026-07-31T11:06:19.430Z"
+  },
+  "source:f63ec2b2925da1a9045691ffc52b3558536f1415": {
+    "url": "https://leouve.com.br/seguranca/homem-preso-flagrante-furtar-motocicleta-revenda-bento-goncalves",
+    "title": "Homem é preso em flagrante após furtar motocicleta em revenda de Bento Gonçalves",
+    "guid": "rsserramulti:22a158848ff716cedb623830df41697ab8913994",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_22a158848ff716cedb623830df41697ab8913994/",
+    "usedAt": 1785495979430,
+    "usedAtIso": "2026-07-31T11:06:19.430Z"
   }
 }
