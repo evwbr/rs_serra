@@ -8622,5 +8622,37 @@
     "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_df4b1404e305941e56440bebbb4b3d9f6804bcce/",
     "usedAt": 1786363577635,
     "usedAtIso": "2026-08-10T12:06:17.635Z"
+  },
+  "source:368972291b98dd2f47ee080a51a1064932cdd7b3": {
+    "url": "https://leouve.com.br/seguranca/transito/obras-acesso-transito-desvio-rizzo-caxias",
+    "title": "Desvio de trânsito na avenida próxima à Faculdade Anhanguera segue até quarta-feira para obras de recuperação",
+    "guid": "rsserramulti:7866682917c304373702c99f7be673efabea6745",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_7866682917c304373702c99f7be673efabea6745/",
+    "usedAt": 1786367177582,
+    "usedAtIso": "2026-08-10T13:06:17.582Z"
+  },
+  "source:7260e26c30363039ece51c2d999d5b0f8c7cc0ef": {
+    "url": "https://leouve.com.br/seguranca/policia/caminhao-com-excesso-de-66-toneladas-e-falha-nos-freios-e-retido-na-ers-122-em-farroupilha",
+    "title": "Veículo com 690 quilos de excesso e freios comprometidos é retido na ERS-122 em Farroupilha",
+    "guid": "rsserramulti:5056a7c99925f1e659325140ae066c16ad8b1fe7",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_5056a7c99925f1e659325140ae066c16ad8b1fe7/",
+    "usedAt": 1786367177582,
+    "usedAtIso": "2026-08-10T13:06:17.582Z"
+  },
+  "source:7bb4afb7cf203c22273b1612c239ed0f9f6aadb7": {
+    "url": "https://leouve.com.br/servicos/prefeitura-garibaldi-alerta-golpe-falsos-e-mails-alvaras",
+    "title": "Prefeitura de Garibaldi alerta para golpe de e-mails falsos sobre alvarás de funcionamento",
+    "guid": "rsserramulti:80ffa27820312ad5d04d1aebc4838cb198de5391",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_80ffa27820312ad5d04d1aebc4838cb198de5391/",
+    "usedAt": 1786367177582,
+    "usedAtIso": "2026-08-10T13:06:17.582Z"
+  },
+  "source:383e4a28280f670db3fcacdc0c1137b67227bdd1": {
+    "url": "https://leouve.com.br/seguranca/policia/jovem-trafico-drogas-centro-caxias-do-sul",
+    "title": "Jovem é preso em flagrante com cocaína durante abordagem em Caxias do Sul",
+    "guid": "rsserramulti:1f2430345635d8fbdec3108a980b1bb19bfdb698",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_1f2430345635d8fbdec3108a980b1bb19bfdb698/",
+    "usedAt": 1786367177582,
+    "usedAtIso": "2026-08-10T13:06:17.582Z"
   }
 }
