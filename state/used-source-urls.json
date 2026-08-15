@@ -9406,5 +9406,45 @@
     "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_15b577578f05e5f005781c42990729f9015e57ab/",
     "usedAt": 1786741577883,
     "usedAtIso": "2026-08-14T21:06:17.883Z"
+  },
+  "source:f89382cc1239940837afdb4987fa64b7e673f156": {
+    "url": "https://leouve.com.br/plantao/acidente/identificada-mulher-morreu-colidir-carro-poste-caxias-do-sul",
+    "title": "Mulher morre após colisão contra poste em Caxias do Sul",
+    "guid": "rsserramulti:60e45745dc8e3f82b4a19c4103060ad2d8b50837",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_60e45745dc8e3f82b4a19c4103060ad2d8b50837/",
+    "usedAt": 1786817178655,
+    "usedAtIso": "2026-08-15T18:06:18.655Z"
+  },
+  "source:33712a7b6b6a45c473f1c19cef10560c415dc2c0": {
+    "url": "https://leouve.com.br/plantao/acidente/carro-sai-da-pista-e-cai-em-barranco-apos-colisao-em-carlos-barbosa",
+    "title": "Colisão entre Renault Sandero e Volkswagen Gol mobiliza resgate em Carlos Barbosa",
+    "guid": "rsserramulti:a161fa76d1095c1c0f80c3d94cb01319c2c025c2",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_a161fa76d1095c1c0f80c3d94cb01319c2c025c2/",
+    "usedAt": 1786817178655,
+    "usedAtIso": "2026-08-15T18:06:18.655Z"
+  },
+  "source:f1af9358e3917ddad4b2bb751d86fd309b7709b6": {
+    "url": "https://leouve.com.br/obras/samae-mantem-obras-de-agua-e-esgoto-na-proxima-semana-em-caxias-do-sul",
+    "title": "Serra Gaúcha terá intervenções em redes de água e esgoto em 18 regiões entre 17 e 21 de agosto",
+    "guid": "rsserramulti:b811ef0dbed3d57263b1b887f1681b1a88a322d2",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_b811ef0dbed3d57263b1b887f1681b1a88a322d2/",
+    "usedAt": 1786817178655,
+    "usedAtIso": "2026-08-15T18:06:18.655Z"
+  },
+  "source:2ae063f6c072ba0308cf4df29f90a2b0e2890104": {
+    "url": "https://leouve.com.br/seguranca/transito/operacao-sossego-publico-autuacao-veiculos-caxia",
+    "title": "Operação conjunta fiscaliza veículos e combate perturbação do sossego em Caxias do Sul",
+    "guid": "rsserramulti:c2986d261c37a881f08d4ed9f2b53a5df689567a",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_c2986d261c37a881f08d4ed9f2b53a5df689567a/",
+    "usedAt": 1786817178655,
+    "usedAtIso": "2026-08-15T18:06:18.655Z"
+  },
+  "source:f01354e0babff741218dd696d56052d0e07d37cd": {
+    "url": "https://leouve.com.br/mundo/terremoto-de-magnitude-5-provoca-danos-em-granada-na-espanha",
+    "title": "Tremor em Granada causa danos e mobiliza emergência na Andaluzia",
+    "guid": "rsserramulti:b989d61f1128cc7fe653a258edcb26be5ce534be",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_b989d61f1128cc7fe653a258edcb26be5ce534be/",
+    "usedAt": 1786817178655,
+    "usedAtIso": "2026-08-15T18:06:18.655Z"
   }
 }
