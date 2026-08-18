@@ -9910,5 +9910,29 @@
     "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_e07506fdd1d6fcd146ee1c4afa1e4157b0c39c0a/",
     "usedAt": 1787058378179,
     "usedAtIso": "2026-08-18T13:06:18.179Z"
+  },
+  "source:9bc1f2ede08b4f52a3b74f6908b07ddc5ef62657": {
+    "url": "https://leouve.com.br/servicos/previsao-do-tempo/chuva-e-temporais-ganham-forca-no-rs-nesta-quarta-feira",
+    "title": "Defesa Civil alerta para risco de temporais com granizo e ventos fortes no Rio Grande do Sul",
+    "guid": "rsserramulti:b20ee8f0beafb229ff7d274e1f4ee8cb96d8bfbe",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_b20ee8f0beafb229ff7d274e1f4ee8cb96d8bfbe/",
+    "usedAt": 1787072778448,
+    "usedAtIso": "2026-08-18T17:06:18.448Z"
+  },
+  "source:31d37ace5d615f4681b597e54c59091adde12b04": {
+    "url": "https://leouve.com.br/saude/sus-adota-novo-teste-de-fezes-para-rastrear-cancer-colorretal-no-brasil",
+    "title": "Ministério da Saúde inclui Teste Imunoquímico Fecal no SUS para rastreamento do câncer colorretal",
+    "guid": "rsserramulti:5118c9c533d9a1db633ec7a892759f75746593e8",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_5118c9c533d9a1db633ec7a892759f75746593e8/",
+    "usedAt": 1787072778448,
+    "usedAtIso": "2026-08-18T17:06:18.448Z"
+  },
+  "source:eb99960f55abc4e505290913437bdcfc95f17164": {
+    "url": "https://leouve.com.br/plantao/acidente/acidente-envolvendo-quatro-veiculos-deixa-homem-ferido-na-ers-122-em-farroupilha",
+    "title": "Colisão envolvendo caminhão e dois carros deixa ferido na ERS-122 em Farroupilha",
+    "guid": "rsserramulti:09f18adfeeea6ed090e56aa83dfaebbabfc618ce",
+    "pageUrl": "https://evwbr.github.io/rs_serra/p/rsserramulti_09f18adfeeea6ed090e56aa83dfaebbabfc618ce/",
+    "usedAt": 1787072778448,
+    "usedAtIso": "2026-08-18T17:06:18.448Z"
   }
 }
